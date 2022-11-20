@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">845551560799-qkalc0980v4ea3m5s3jc0ptepdb2svb7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">845551560799</string>
+    <string name="google_api_key" translatable="false">AIzaSyASTEeGIcsiVmI6asgxZEZAugo_CJbhg7o</string>
+    <string name="google_app_id" translatable="false">1:845551560799:android:8820d02b82bf953679d3ea</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyASTEeGIcsiVmI6asgxZEZAugo_CJbhg7o</string>
+    <string name="google_storage_bucket" translatable="false">ecommerce-rahat.appspot.com</string>
+    <string name="project_id" translatable="false">ecommerce-rahat</string>
+</resources>
